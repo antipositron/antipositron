@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I've used many code management / versioning systems - SubVersion, Perforce SVS, SVN etc over the years, and recently BitBucket.
+#### I've used many code management / versioning systems - SubVersion, Perforce SVS, SVN etc over the years, and recently BitBucket.
